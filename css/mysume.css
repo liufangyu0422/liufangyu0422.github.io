@@ -24,7 +24,8 @@ h1 .text-primary{
 }
 
 .bg-primary{
-	background-image
+	background-color:#125d70!important;
+	background-image:url("https://www.transparenttextures.com/patterns/brick-wall.png");
 }
 
 .graph_set{
