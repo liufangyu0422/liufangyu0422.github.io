@@ -18,13 +18,15 @@ h1{
 }
 
 h1 .text-primary{
+	front-color:#125d70
 	font-size:3rem;
 	letter-spacing:-0.05rem;
 	line-height:3rem;
 }
 
 .bg-primary{
-	background-image
+	background-color:#125d70!important;
+	background-image: url("../img/brick-wall.png");
 }
 
 .graph_set{
